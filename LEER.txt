@@ -1,0 +1,7 @@
+Lo realicé con Laravel, que usa
+el patrón MVC.
+
+Los procedimientos almacenados están
+almacenados en la carpeta 
+SQL BASE DE DATOS
+
